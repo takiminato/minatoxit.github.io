@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>MINATO XIT</title>
+  <style>
+    body {
+      background-color: #000;
+      color: white;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      padding: 40px 20px 20px;
+    }
+
+    .logo {
+      max-width: 250px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      font-size: 36px;
+      color: #ff0000;
+      margin: 10px 0;
+      letter-spacing: 2px;
+    }
+
+    p {
+      color: #aaa;
+      font-size: 18px;
+      margin-bottom: 40px;
+    }
+
+    .download-button {
+      background-color: #ff0000;
+      color: white;
+      padding: 15px 30px;
+      font-size: 20px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+
+    .download-button:hover {
+      background-color: #cc0000;
+    }
+
+    footer {
+      margin-top: 60px;
+      padding: 20px;
+      font-size: 14px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="logo.png" alt="MINATO XIT Logo" class="logo">
+    <h1>MINATO XIT</h1>
+    <p>أداة كشف أماكن + مثبت إيم | اضغط الزر أدناه لتحميل السكربت</p>
+    <a href="https://www.mediafire.com/file/gwsrtgequ4n6otk/%D9%83%D8%B4%D9%81+%D8%A7%D9%85%D8%A7%D9%83%D9%86+++%D9%85%D8%AB%D8%A8%D8%AA+%D8%A7%D9%8A%D9%85+++By+jouff.zip/file" class="download-button" target="_blank">
+      تحميل السكربت
+    </a>
+  </header>
+
+  <footer>
+    جميع الحقوق محفوظة © MINATO XIT 2025
+  </footer>
+
+</body>
+</html>
